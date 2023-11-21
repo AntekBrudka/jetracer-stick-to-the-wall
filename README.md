@@ -1,4 +1,7 @@
 # jetracer-stick-to-the-wall
+## Purpose
+This script was created to make the Jetracer platform hold a safe distance from the wall. The aim of the project was to achieve the best loop around the class time.
+
 ## Installation
 Install the system and configure it according to tutorials on the Waveshare website.
 The next step is to move the scan.py into the scripts folder.
