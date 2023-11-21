@@ -25,5 +25,5 @@ After which, the car should start driving alongside the wall on its right-hand s
 [Waveshare tutorials](https://www.waveshare.com/wiki/JetRacer_ROS_AI_Kit?fbclid=IwAR0RzFvEXzG2Hs2e3YxhUxPRWffpLDRv_5AMfJiSZM8FrT-BA0esXTCwWkY)
 
 ## Video
-https://github.com/AntekBrudka/jetracer-stick-to-the-wall/assets/45321229/0ce21983-8f75-4407-9097-d7fc0aebb272
+https://github.com/AntekBrudka/jetracer-stick-to-the-wall/assets/45321229/9ab23e62-27bc-45ba-b127-c537f9b6d9a5
 
